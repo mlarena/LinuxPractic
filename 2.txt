@@ -1,0 +1,9 @@
+Верся операционной системы
+cat /etc/astra_version
+cat /etc/os-release
+
+lsblk
+
+astra-update -a -r
+
+apt list --upgradable
